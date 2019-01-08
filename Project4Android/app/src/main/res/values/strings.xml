@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project4Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">\t\ttitle: %1$s\n\t\tpublisher: %2$s\n</string>
+    <string name="noblock">No recipe found</string>
+    <string name="str">%1$s</string>
+    <string name="title">find your cuisine</string>
+</resources>
